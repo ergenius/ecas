@@ -1,3 +1,6 @@
+_build
+rebar.lock
+.idea
 .eunit
 deps
 *.o
@@ -8,3 +11,4 @@ ebin/*.beam
 rel/example_project
 .concrete/DEV_MODE
 .rebar
+rebar3

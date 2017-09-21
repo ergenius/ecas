@@ -1,0 +1,13 @@
+{application, ecas, [
+    {id, "ecas"},
+    {vsn, "0.9.0"},
+    {description, "Erlang Cassandra Driver"},
+    {modules, []},
+    {registered, []},
+    {applications, [kernel, stdlib, sasl]},
+    {mod, {epool_app, []}},
+    {env, []},
+    {maintainers, ["Madalin Grigore-Enescu <os@ergenius.com>"]},
+    {licenses, ["MIT"]},
+    {links, [{"Github", "https://github.com/ergenius/epool"}]}
+]}.
