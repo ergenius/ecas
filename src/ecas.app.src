@@ -9,5 +9,5 @@
     {env, []},
     {maintainers, ["Madalin Grigore-Enescu <os@ergenius.com>"]},
     {licenses, ["MIT"]},
-    {links, [{"Github", "https://github.com/ergenius/epool"}]}
+    {links, [{"Github", "https://github.com/ergenius/ecas"}]}
 ]}.
